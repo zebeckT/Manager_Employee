@@ -1,0 +1,18 @@
+.todos-page {
+  padding-top: 32px;
+  padding-bottom: 32px;
+
+  .todos-panel {
+    padding: 24px;
+  }
+
+  .todos-form {
+    max-width: 520px;
+  }
+
+  @media (max-width: 599px) {
+    .todos-panel {
+      padding: 16px;
+    }
+  }
+}
