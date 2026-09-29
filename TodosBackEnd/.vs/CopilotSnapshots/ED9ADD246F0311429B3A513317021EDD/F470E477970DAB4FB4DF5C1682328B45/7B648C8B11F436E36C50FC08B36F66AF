@@ -1,0 +1,29 @@
+﻿using TodosBackEnd.Service.Employees;
+using TodosBackEnd.Models;
+
+namespace TodosBackEnd.Service.Todos
+{
+    public class EmployeesService : IEmployeesService
+
+    {
+        public bool AddEmployee(Employee employee)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool DeleteEmployee(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Employee> GetEmployees()
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool UpdateEmployee(Employee employee)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|d:\\workspace\\react\u002Bnet\\todosbackend\\todosbackend\\service\\todos\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\service\\todos\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|d:\\workspace\\react\u002Bnet\\todosbackend\\todosbackend\\seeders\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\seeders\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|d:\\workspace\\react\u002Bnet\\todosbackend\\todosbackend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|d:\\workspace\\react\u002Bnet\\todosbackend\\todosbackend\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|d:\\workspace\\react\u002Bnet\\todosbackend\\todosbackend\\service\\todos\\iemployeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\service\\todos\\iemployeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|d:\\workspace\\react\u002Bnet\\todosbackend\\todosbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|d:\\workspace\\react\u002Bnet\\todosbackend\\todosbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|d:\\workspace\\react\u002Bnet\\todosbackend\\todosbackend\\configuration\\todoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\configuration\\todoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|d:\\workspace\\react\u002Bnet\\todosbackend\\todosbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|d:\\workspace\\react\u002Bnet\\todosbackend\\todosbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2F7AFAB-AD3D-A788-9F78-6887BA4A15F3}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 314,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Program.cs",
+              "ToolTip": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Program.cs",
+              "RelativeToolTip": "TodosBackEnd\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T02:48:27.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeesService.cs",
+              "DocumentMoniker": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Service\\Todos\\IEmployeesService.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Service\\Todos\\IEmployeesService.cs",
+              "ToolTip": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Service\\Todos\\IEmployeesService.cs",
+              "RelativeToolTip": "TodosBackEnd\\Service\\Todos\\IEmployeesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T02:58:16.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesService.cs",
+              "DocumentMoniker": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Service\\Todos\\EmployeesService.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Service\\Todos\\EmployeesService.cs",
+              "ToolTip": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Service\\Todos\\EmployeesService.cs",
+              "RelativeToolTip": "TodosBackEnd\\Service\\Todos\\EmployeesService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T03:05:38.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Seeders\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Seeders\\DatabaseSeeder.cs",
+              "ToolTip": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Seeders\\DatabaseSeeder.cs",
+              "RelativeToolTip": "TodosBackEnd\\Seeders\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T02:26:39.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "TodosBackEnd\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T02:24:48.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoConfiguration.cs",
+              "DocumentMoniker": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Configuration\\TodoConfiguration.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Configuration\\TodoConfiguration.cs",
+              "ToolTip": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Configuration\\TodoConfiguration.cs",
+              "RelativeToolTip": "TodosBackEnd\\Configuration\\TodoConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T02:13:18.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TodosBackEnd\\appsettings.Development.json",
+              "ToolTip": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\appsettings.Development.json",
+              "RelativeToolTip": "TodosBackEnd\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-21T01:24:44.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Models\\Employee.cs",
+              "ToolTip": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Models\\Employee.cs",
+              "RelativeToolTip": "TodosBackEnd\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T02:14:12.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TodosBackEnd\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-21T01:36:50.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "TodosBackEnd\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\React\u002BNet\\TodosBackEnd\\TodosBackEnd\\appsettings.json",
+              "RelativeToolTip": "TodosBackEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-09T02:38:47.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

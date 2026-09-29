@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "TodosBackEnd.Controllers.EmployeesController",
+    "Method": "Get",
+    "RelativePath": "v1/api/employees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodosBackEnd.Controllers.EmployeesController",
+    "Method": "Post",
+    "RelativePath": "v1/api/employees",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "TodosBackEnd.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodosBackEnd.Controllers.EmployeesController",
+    "Method": "Put",
+    "RelativePath": "v1/api/employees",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "TodosBackEnd.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodosBackEnd.Controllers.EmployeesController",
+    "Method": "Delete",
+    "RelativePath": "v1/api/employees/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
