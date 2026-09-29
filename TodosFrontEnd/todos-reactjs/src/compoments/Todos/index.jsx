@@ -35,6 +35,7 @@ function Todos() {
   const [email, setEmail] = useState("");
   const [phone, setPhone] = useState("");
   const [position, setPosition] = useState("");
+  const [searchTerm, setSearchTerm] = useState("");
 
   // Them moi. Co ID: sua nhân vien do.
   const [editingId, setEditingId] = useState(null);
@@ -162,9 +163,28 @@ function Todos() {
         <Typography component="h2" variant="h6" sx={{ my: 2 }}>
           Danh sách nhân viên
         </Typography>
+
+        <TextField
+          label="Tìm kiếm theo tên hoặc chức vụ..."
+          variant="outlined"
+          size="small"
+          fullWidth
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+          sx={{ mb: 2 }}
+        />
+
         {loading && <Typography role="status">Đang tải danh sách…</Typography>}
         {!loading && employees.length === 0 && (
           <Typography>Danh sách nhân viên trống.</Typography>
+        )}
+        {!loading && employees.length > 0 && employees.filter((emp) =>
+          emp.fullName?.toLowerCase().includes(searchTerm.toLowerCase()) ||
+          emp.position?.toLowerCase().includes(searchTerm.toLowerCase())
+        ).length === 0 && (
+          <Typography sx={{ color: "text.secondary", my: 2 }}>
+            Không tìm thấy nhân viên phù hợp với từ khóa "{searchTerm}".
+          </Typography>
         )}
 
         <TableContainer>
@@ -184,7 +204,12 @@ function Todos() {
               </TableRow>
             </TableHead>
             <TableBody>
-              {employees.map((employee) => (
+              {employees
+                .filter((employee) =>
+                  employee.fullName?.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                  employee.position?.toLowerCase().includes(searchTerm.toLowerCase())
+                )
+                .map((employee) => (
                 <TableRow
                   key={employee.id}
                   selected={editingId === employee.id}
